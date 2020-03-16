@@ -1,0 +1,6 @@
+D:\DotNetProjects\DotNetSolution\Practical 6\Practical 6\obj\Debug\Practical 6.csprojAssemblyReference.cache
+D:\DotNetProjects\DotNetSolution\Practical 6\Practical 6\bin\Debug\Practical 6.exe.config
+D:\DotNetProjects\DotNetSolution\Practical 6\Practical 6\bin\Debug\Practical 6.exe
+D:\DotNetProjects\DotNetSolution\Practical 6\Practical 6\bin\Debug\Practical 6.pdb
+D:\DotNetProjects\DotNetSolution\Practical 6\Practical 6\obj\Debug\Practical 6.exe
+D:\DotNetProjects\DotNetSolution\Practical 6\Practical 6\obj\Debug\Practical 6.pdb

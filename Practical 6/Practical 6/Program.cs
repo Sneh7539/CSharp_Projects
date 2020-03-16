@@ -10,7 +10,14 @@ namespace Practical_6
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Enter The String In Infix Format : ");
+            string infix = Console.ReadLine();
+            string postfix;
+            InfixToPostfix infixToPostfix = new InfixToPostfix();
+            infixToPostfix.Converter(ref infix, out postfix);
+            Console.WriteLine("String In Postfix Format : ");
+            Console.WriteLine(postfix);
+            Console.Read();
         }
     }
 }

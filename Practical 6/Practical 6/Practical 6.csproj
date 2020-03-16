@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7FE131C8-4D14-41C2-BB30-A65194BAF6BA}</ProjectGuid>
+    <ProjectGuid>{884969B3-8DDB-4509-8819-B0006FDEA0AF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Practical_6</RootNamespace>
     <AssemblyName>Practical 6</AssemblyName>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InfixToPostfix.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
