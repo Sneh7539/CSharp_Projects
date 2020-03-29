@@ -1,4 +1,8 @@
-# CSharp_Projects
+CSharp_Projects
+===============
+
+## Beginning ![Why this?](https://img.shields.io/badge/Why%20this%3F-Details%20about%20repository-yellowgreen)
+
 This repository contains basic programming about [C#](https://docs.microsoft.com/en-us/dotnet/csharp) and in this programming development i have used [.NET-4.8](https://dotnet.microsoft.com/download/dotnet-framework)
 I have developed this all projects as per definations given in our lab durations.
 
