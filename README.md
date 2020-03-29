@@ -21,7 +21,7 @@ How to use this repository
 
       $ git clone https://github.com/Sneh7539/CSharp_Projects.git
       
-Targeted Public
+Targeted people
 ---------
 ### Who can use it ?
 - Every beginners:baby: which are willing to learn and :gift_heart:***C#**
