@@ -10,7 +10,7 @@ Used programmin languaes and frameworks
 This repository contains basic programming about [C#](https://docs.microsoft.com/en-us/dotnet/csharp) and in this programming development i have used [.NET-4.8](https://dotnet.microsoft.com/download/dotnet-framework)
 I have developed this all projects as per definations given in our lab durations.
 
-# How it'll help.
+# How it'll help ?
 It contains basic console application and also some form based appcilation.
 
 How to use this repository
@@ -23,5 +23,5 @@ How to use this repository
       
 Targeted Public
 ---------
-### Who can use it?
+### Who can use it ?
 - Every beginners:baby: which are willing to learn and :gift_heart:***C#**
