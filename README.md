@@ -1,6 +1,10 @@
 CSharp_Projects
 ===============
 
+Used programmin languaes and items
+---------
+## ![.NET-4.8](https://img.shields.io/badge/.NET-v4.8-red) ![C#-8.0](https://img.shields.io/badge/C%23-v8.0-green)
+
 ## Beginning ![Why this?](https://img.shields.io/badge/Why%20this%3F-Details%20about%20repository-yellowgreen)
 
 This repository contains basic programming about [C#](https://docs.microsoft.com/en-us/dotnet/csharp) and in this programming development i have used [.NET-4.8](https://dotnet.microsoft.com/download/dotnet-framework)
@@ -20,4 +24,4 @@ How to use this repository
 Targeted Public
 ---------
 ### Who can use it?
-- Every beginners:baby: which are willing to learn and :gift_heart:***C#***
+- Every beginners:baby: which are willing to learn and :gift_heart:***C#**
