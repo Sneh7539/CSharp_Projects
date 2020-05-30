@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "Difference\Difference.csproj", "{3480FF14-9CD6-4C25-AD37-2D39268D6D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3480FF14-9CD6-4C25-AD37-2D39268D6D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3480FF14-9CD6-4C25-AD37-2D39268D6D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3480FF14-9CD6-4C25-AD37-2D39268D6D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3480FF14-9CD6-4C25-AD37-2D39268D6D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD34DBA-A750-4C7F-AB90-537365C2DD4D}
+	EndGlobalSection
+EndGlobal

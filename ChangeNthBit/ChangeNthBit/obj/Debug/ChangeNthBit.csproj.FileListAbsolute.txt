@@ -1,0 +1,6 @@
+C:\Users\Sneh\source\repos\ChangeNthBit\ChangeNthBit\bin\Debug\ChangeNthBit.exe.config
+C:\Users\Sneh\source\repos\ChangeNthBit\ChangeNthBit\bin\Debug\ChangeNthBit.exe
+C:\Users\Sneh\source\repos\ChangeNthBit\ChangeNthBit\bin\Debug\ChangeNthBit.pdb
+C:\Users\Sneh\source\repos\ChangeNthBit\ChangeNthBit\obj\Debug\ChangeNthBit.csprojAssemblyReference.cache
+C:\Users\Sneh\source\repos\ChangeNthBit\ChangeNthBit\obj\Debug\ChangeNthBit.exe
+C:\Users\Sneh\source\repos\ChangeNthBit\ChangeNthBit\obj\Debug\ChangeNthBit.pdb

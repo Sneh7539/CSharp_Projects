@@ -1,0 +1,6 @@
+C:\Users\Sneh\source\repos\Swap\Swap\bin\Debug\Swap.exe.config
+C:\Users\Sneh\source\repos\Swap\Swap\bin\Debug\Swap.exe
+C:\Users\Sneh\source\repos\Swap\Swap\bin\Debug\Swap.pdb
+C:\Users\Sneh\source\repos\Swap\Swap\obj\Debug\Swap.csprojAssemblyReference.cache
+C:\Users\Sneh\source\repos\Swap\Swap\obj\Debug\Swap.exe
+C:\Users\Sneh\source\repos\Swap\Swap\obj\Debug\Swap.pdb

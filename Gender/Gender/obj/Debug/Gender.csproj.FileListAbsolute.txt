@@ -1,0 +1,5 @@
+C:\Users\Sneh\source\repos\Gender\Gender\bin\Debug\Gender.exe.config
+C:\Users\Sneh\source\repos\Gender\Gender\bin\Debug\Gender.exe
+C:\Users\Sneh\source\repos\Gender\Gender\bin\Debug\Gender.pdb
+C:\Users\Sneh\source\repos\Gender\Gender\obj\Debug\Gender.exe
+C:\Users\Sneh\source\repos\Gender\Gender\obj\Debug\Gender.pdb

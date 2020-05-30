@@ -1,0 +1,6 @@
+C:\Users\Sneh\source\repos\Difference\Difference\bin\Debug\Difference.exe.config
+C:\Users\Sneh\source\repos\Difference\Difference\bin\Debug\Difference.exe
+C:\Users\Sneh\source\repos\Difference\Difference\bin\Debug\Difference.pdb
+C:\Users\Sneh\source\repos\Difference\Difference\obj\Debug\Difference.csprojAssemblyReference.cache
+C:\Users\Sneh\source\repos\Difference\Difference\obj\Debug\Difference.exe
+C:\Users\Sneh\source\repos\Difference\Difference\obj\Debug\Difference.pdb

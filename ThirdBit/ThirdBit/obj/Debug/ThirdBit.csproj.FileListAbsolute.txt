@@ -1,0 +1,6 @@
+C:\Users\Sneh\source\repos\ThirdBit\ThirdBit\bin\Debug\ThirdBit.exe.config
+C:\Users\Sneh\source\repos\ThirdBit\ThirdBit\bin\Debug\ThirdBit.exe
+C:\Users\Sneh\source\repos\ThirdBit\ThirdBit\bin\Debug\ThirdBit.pdb
+C:\Users\Sneh\source\repos\ThirdBit\ThirdBit\obj\Debug\ThirdBit.csprojAssemblyReference.cache
+C:\Users\Sneh\source\repos\ThirdBit\ThirdBit\obj\Debug\ThirdBit.exe
+C:\Users\Sneh\source\repos\ThirdBit\ThirdBit\obj\Debug\ThirdBit.pdb

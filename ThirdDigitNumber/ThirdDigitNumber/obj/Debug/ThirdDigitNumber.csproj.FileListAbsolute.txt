@@ -1,0 +1,5 @@
+C:\Users\Sneh\source\repos\ThirdDigitNumber\ThirdDigitNumber\bin\Debug\ThirdDigitNumber.exe.config
+C:\Users\Sneh\source\repos\ThirdDigitNumber\ThirdDigitNumber\bin\Debug\ThirdDigitNumber.exe
+C:\Users\Sneh\source\repos\ThirdDigitNumber\ThirdDigitNumber\bin\Debug\ThirdDigitNumber.pdb
+C:\Users\Sneh\source\repos\ThirdDigitNumber\ThirdDigitNumber\obj\Debug\ThirdDigitNumber.exe
+C:\Users\Sneh\source\repos\ThirdDigitNumber\ThirdDigitNumber\obj\Debug\ThirdDigitNumber.pdb

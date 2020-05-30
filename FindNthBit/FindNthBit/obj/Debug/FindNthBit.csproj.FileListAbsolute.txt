@@ -1,0 +1,5 @@
+C:\Users\Sneh\source\repos\FindNthBit\FindNthBit\bin\Debug\FindNthBit.exe.config
+C:\Users\Sneh\source\repos\FindNthBit\FindNthBit\bin\Debug\FindNthBit.exe
+C:\Users\Sneh\source\repos\FindNthBit\FindNthBit\bin\Debug\FindNthBit.pdb
+C:\Users\Sneh\source\repos\FindNthBit\FindNthBit\obj\Debug\FindNthBit.exe
+C:\Users\Sneh\source\repos\FindNthBit\FindNthBit\obj\Debug\FindNthBit.pdb

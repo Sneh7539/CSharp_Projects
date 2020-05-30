@@ -1,0 +1,11 @@
+C:\Users\Sneh\source\repos\HelloWorld.csp\bin\Debug\netcoreapp3.1\HelloWorld.csp.exe
+C:\Users\Sneh\source\repos\HelloWorld.csp\bin\Debug\netcoreapp3.1\HelloWorld.csp.deps.json
+C:\Users\Sneh\source\repos\HelloWorld.csp\bin\Debug\netcoreapp3.1\HelloWorld.csp.runtimeconfig.json
+C:\Users\Sneh\source\repos\HelloWorld.csp\bin\Debug\netcoreapp3.1\HelloWorld.csp.runtimeconfig.dev.json
+C:\Users\Sneh\source\repos\HelloWorld.csp\bin\Debug\netcoreapp3.1\HelloWorld.csp.dll
+C:\Users\Sneh\source\repos\HelloWorld.csp\bin\Debug\netcoreapp3.1\HelloWorld.csp.pdb
+C:\Users\Sneh\source\repos\HelloWorld.csp\obj\Debug\netcoreapp3.1\HelloWorld.csp.csprojAssemblyReference.cache
+C:\Users\Sneh\source\repos\HelloWorld.csp\obj\Debug\netcoreapp3.1\HelloWorld.csp.AssemblyInfoInputs.cache
+C:\Users\Sneh\source\repos\HelloWorld.csp\obj\Debug\netcoreapp3.1\HelloWorld.csp.AssemblyInfo.cs
+C:\Users\Sneh\source\repos\HelloWorld.csp\obj\Debug\netcoreapp3.1\HelloWorld.csp.dll
+C:\Users\Sneh\source\repos\HelloWorld.csp\obj\Debug\netcoreapp3.1\HelloWorld.csp.pdb

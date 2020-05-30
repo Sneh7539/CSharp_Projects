@@ -1,0 +1,6 @@
+C:\Users\Sneh\source\repos\ExchangeBits\ExchangeBits\bin\Debug\ExchangeBits.exe.config
+C:\Users\Sneh\source\repos\ExchangeBits\ExchangeBits\bin\Debug\ExchangeBits.exe
+C:\Users\Sneh\source\repos\ExchangeBits\ExchangeBits\bin\Debug\ExchangeBits.pdb
+C:\Users\Sneh\source\repos\ExchangeBits\ExchangeBits\obj\Debug\ExchangeBits.csprojAssemblyReference.cache
+C:\Users\Sneh\source\repos\ExchangeBits\ExchangeBits\obj\Debug\ExchangeBits.exe
+C:\Users\Sneh\source\repos\ExchangeBits\ExchangeBits\obj\Debug\ExchangeBits.pdb
