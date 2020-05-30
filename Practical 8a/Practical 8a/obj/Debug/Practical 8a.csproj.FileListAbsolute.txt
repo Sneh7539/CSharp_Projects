@@ -1,0 +1,6 @@
+D:\DotNetProjects\DotNetSolution\Practical 8a\Practical 8a\bin\Debug\Practical 8a.exe.config
+D:\DotNetProjects\DotNetSolution\Practical 8a\Practical 8a\bin\Debug\Practical 8a.exe
+D:\DotNetProjects\DotNetSolution\Practical 8a\Practical 8a\bin\Debug\Practical 8a.pdb
+D:\DotNetProjects\DotNetSolution\Practical 8a\Practical 8a\obj\Debug\Practical 8a.csprojAssemblyReference.cache
+D:\DotNetProjects\DotNetSolution\Practical 8a\Practical 8a\obj\Debug\Practical 8a.exe
+D:\DotNetProjects\DotNetSolution\Practical 8a\Practical 8a\obj\Debug\Practical 8a.pdb

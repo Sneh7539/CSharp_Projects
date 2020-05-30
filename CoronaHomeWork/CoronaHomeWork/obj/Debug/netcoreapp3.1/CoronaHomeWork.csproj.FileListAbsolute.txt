@@ -1,0 +1,11 @@
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\bin\Debug\netcoreapp3.1\CoronaHomeWork.exe
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\bin\Debug\netcoreapp3.1\CoronaHomeWork.deps.json
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\bin\Debug\netcoreapp3.1\CoronaHomeWork.runtimeconfig.json
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\bin\Debug\netcoreapp3.1\CoronaHomeWork.runtimeconfig.dev.json
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\bin\Debug\netcoreapp3.1\CoronaHomeWork.dll
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\bin\Debug\netcoreapp3.1\CoronaHomeWork.pdb
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\obj\Debug\netcoreapp3.1\CoronaHomeWork.csprojAssemblyReference.cache
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\obj\Debug\netcoreapp3.1\CoronaHomeWork.AssemblyInfoInputs.cache
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\obj\Debug\netcoreapp3.1\CoronaHomeWork.AssemblyInfo.cs
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\obj\Debug\netcoreapp3.1\CoronaHomeWork.dll
+D:\DotNetProjects\DotNetSolution\CoronaHomeWork\CoronaHomeWork\obj\Debug\netcoreapp3.1\CoronaHomeWork.pdb

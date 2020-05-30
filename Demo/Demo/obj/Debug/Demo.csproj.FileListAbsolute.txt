@@ -1,0 +1,6 @@
+D:\DotNetProjects\DotNetSolution\Demo\Demo\bin\Debug\Demo.exe.config
+D:\DotNetProjects\DotNetSolution\Demo\Demo\bin\Debug\Demo.exe
+D:\DotNetProjects\DotNetSolution\Demo\Demo\bin\Debug\Demo.pdb
+D:\DotNetProjects\DotNetSolution\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\DotNetProjects\DotNetSolution\Demo\Demo\obj\Debug\Demo.exe
+D:\DotNetProjects\DotNetSolution\Demo\Demo\obj\Debug\Demo.pdb

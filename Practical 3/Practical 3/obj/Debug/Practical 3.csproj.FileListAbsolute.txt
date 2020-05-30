@@ -3,3 +3,8 @@ C:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\bin\Debug\Practical 3.e
 C:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\bin\Debug\Practical 3.pdb
 C:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\obj\Debug\Practical 3.exe
 C:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\obj\Debug\Practical 3.pdb
+D:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\bin\Debug\Practical 3.exe.config
+D:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\bin\Debug\Practical 3.exe
+D:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\bin\Debug\Practical 3.pdb
+D:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\obj\Debug\Practical 3.exe
+D:\DotNetProjects\DotNetSolution\Practical 3\Practical 3\obj\Debug\Practical 3.pdb

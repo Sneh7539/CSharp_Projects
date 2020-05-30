@@ -21,17 +21,17 @@ namespace Practical_3
 
                 if (Regex.IsMatch(userName, @"^[a-zA-Z]+$") && Regex.IsMatch(userCountry, @"^[a-zA-Z]+$"))
                 {
-                    Console.WriteLine("\nWelcome " + userName + " from country " + userCountry);
+                    Console.WriteLine("\nHello " + userName + " from country " + userCountry + "!");
                     break;
                 }
                 else
                 {
                     Console.WriteLine("\nOOPS! There Is Invalid Name or Country Name...");
-                    Console.ReadKey();
+                    Console.ReadLine();
                     Console.Clear();
                 }
             }
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

@@ -20,7 +20,7 @@ namespace Practical_2
             }
             Console.WriteLine();
         }
-        static void Pattern2()
+        /*static void Pattern2()
         {
             for (int i = 0; i < 5; i++)
             {
@@ -62,13 +62,13 @@ namespace Practical_2
                 }
                 Console.WriteLine();
             }
-        }
+        }*/
         static void Main(string[] args)
         {
             Pattern1();
-            Pattern2();
+            /*Pattern2();
             Pattern3();
-            Pattern4();
+            Pattern4();*/
             Console.ReadLine();
         }
     }

@@ -18,7 +18,6 @@ namespace Practical_9
         }
         private void btnDecrease_Click(object sender, EventArgs e)
         {
-            if()
             float currentSize = lblFont.Font.Size;
             lblFont.Font = new Font("Courier New", currentSize - 5);
         }

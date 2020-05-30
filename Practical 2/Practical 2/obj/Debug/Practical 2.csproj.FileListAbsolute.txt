@@ -4,3 +4,9 @@ C:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\bin\Debug\Practical 2.p
 C:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\obj\Debug\Practical 2.csprojAssemblyReference.cache
 C:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\obj\Debug\Practical 2.exe
 C:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\obj\Debug\Practical 2.pdb
+D:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\bin\Debug\Practical 2.exe.config
+D:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\bin\Debug\Practical 2.exe
+D:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\bin\Debug\Practical 2.pdb
+D:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\obj\Debug\Practical 2.csprojAssemblyReference.cache
+D:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\obj\Debug\Practical 2.exe
+D:\DotNetProjects\DotNetSolution\Practical 2\Practical 2\obj\Debug\Practical 2.pdb
